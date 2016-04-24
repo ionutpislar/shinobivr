@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E19B179C-88D9-5ECE-9184-8193349A6D90}") = "shinobi VR", "Assembly-CSharp.csproj", "{3ED6FBFB-290E-97A7-D440-B0535DFDD814}"
+EndProject
+Project("{E19B179C-88D9-5ECE-9184-8193349A6D90}") = "shinobi VR", "Assembly-CSharp-Editor.csproj", "{2232C49A-D7E1-FBD1-DAB9-07AC768C4F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED6FBFB-290E-97A7-D440-B0535DFDD814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED6FBFB-290E-97A7-D440-B0535DFDD814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED6FBFB-290E-97A7-D440-B0535DFDD814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED6FBFB-290E-97A7-D440-B0535DFDD814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2232C49A-D7E1-FBD1-DAB9-07AC768C4F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2232C49A-D7E1-FBD1-DAB9-07AC768C4F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2232C49A-D7E1-FBD1-DAB9-07AC768C4F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2232C49A-D7E1-FBD1-DAB9-07AC768C4F93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
